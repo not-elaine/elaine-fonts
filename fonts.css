@@ -1,0 +1,17 @@
+/* celestia (full credits to @elainehan; pls keep these credits if used) */
+@font-face {
+font-family: celestia;
+src: url('https://raw.githubusercontent.com/not-elaine/fonts-by-elaine/main/Celestia-Regular.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/fonts-by-elaine/main/Celestia-Regular.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* starlight (full credits to @elainehan; pls keep these credits if used) */
+@font-face {
+font-family: starlight;
+src: url('https://raw.githubusercontent.com/not-elaine/fonts-by-elaine/main/Starlight-Regular.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/fonts-by-elaine/main/Starlight-Regular.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
