@@ -16,6 +16,7 @@ font-weight: normal;
 font-style: normal;
 }
 
+/* fat frogs (full credits to @elainehan; pls keep these credits if used) */
 @font-face {
 font-family: fat frogs;
 src: url('https://raw.githubusercontent.com/not-elaine/fonts-by-elaine/main/FatFrogs-Regular.ttf') format('truetype'),
